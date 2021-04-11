@@ -1,4 +1,4 @@
-My name is Thiago Couto and I currently work at mainoffice.me with virtualization of desktops and networks.
+My name is Thiago Couto and I currently work at mainoffice.me with IT infrastructure virtualization.
 
 I develop several types of automations with Arduino, ESP8266, ESP32 and Raspberrypi.
 
